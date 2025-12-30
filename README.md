@@ -43,14 +43,4 @@ The goal was to uncover business insights about customer behavior, product trend
 - Amazon_Sales_Report.pdf → Project summary with visuals  
 - README.md → Documentation of the project  
 
----
-
-✨ About Me  
-B.Sc. Botany graduate with a Business Analytics certification from Analyst Club.  
-Skilled in SQL, Excel, and Power BI, with a passion for turning data into actionable insights.  
-
----
-
-
----
 
